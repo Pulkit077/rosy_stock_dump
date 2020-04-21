@@ -1,0 +1,12 @@
+on boot
+    # Always start adbd on userdebug and eng builds
+    # Please remove follow comment in debug mode.
+    # mount ext4 /dev/block/bootdevice/by-name/system /system wait ro barrier=1
+    # write /config/usb_gadget/g1/UDC a600000.dwc3
+    # start adbd
+
+on property:vendor.kpdpwr.reset.enabled=0
+    write /sys/devices/soc/qpnp-power-on-1/kpdpwr_reset 0
+
+on property:vendor.kpdpwr.reset.enabled=1
+    write /sys/devices/soc/qpnp-power-on-1/kpdpwr_reset 1
