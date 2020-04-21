@@ -1,0 +1,30 @@
+{
+  "itemConfig": [
+    {
+      "showName": "FrontCamera",
+      "action": "com.mmigroup.action.MAINCAMERA",
+      "support": true,
+      "automatic": false,
+      "paramconfig": {
+        "adb_ata": "action.adb.ata.FrontCamera",
+        "cameraId": 1,
+        "support_takepicture": true,
+        "auto_takepicture": true,
+        "is_open_flashLight": false
+      }
+    },
+    {
+      "showName": "MainCamera",
+      "action": "com.mmigroup.action.MAINCAMERA",
+      "support": true,
+      "automatic": false,
+      "paramconfig": {
+        "adb_ata": "action.adb.ata.MainCamera",
+        "cameraId": 0,
+        "support_takepicture": true,
+        "auto_takepicture": true,
+        "is_open_flashLight": false
+      }
+    }
+  ]
+}
