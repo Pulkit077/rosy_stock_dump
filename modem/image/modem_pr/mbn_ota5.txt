@@ -1,0 +1,5 @@
+mcfg_sw/generic/common/row/gen_3gpp/mcfg_sw.mbn
+mcfg_sw/generic/sea/pl/gen_3gpp/mcfg_sw.mbn
+mcfg_sw/generic/russia/megafon/volte/mcfg_sw.mbn
+mcfg_sw/generic/eu/tim/volte/italy/mcfg_sw.mbn
+mcfg_sw/generic/eu/nos/gen_3gpp/mcfg_sw.mbn

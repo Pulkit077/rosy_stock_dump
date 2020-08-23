@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (c) 2015 Qualcomm Technologies, Inc. All Rights Reserved.
+    Qualcomm Technologies Proprietary and Confidential.
+-->
+<layout>
+  <include layout="header.xml"/>
+  <button
+        name="display"
+        text=""
+        w_rel="100"
+        h_rel="74"
+        x_rel="0"
+        y_rel="10"
+        color="0xffffffff" />
+  <include layout="footer.xml"/>
+</layout>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (c) 2014-2015 Qualcomm Technologies, Inc. All Rights Reserved.
+    Qualcomm Technologies Proprietary and Confidential.
+-->
+<layout>
+   <button
+        name="display"
+        text="Click Next"
+        onclick="do_next"
+        w_rel="100"
+        h_rel="100"
+        x_rel="0"
+        y_rel="0"
+        color="0x000000ff" /><!--bug 261964,haozhenghui.wt,modify,20170505,关机工模LCD测试项增加测试画面,修改背景色为黑-->
+  <include layout="footer.xml"/>
+</layout>

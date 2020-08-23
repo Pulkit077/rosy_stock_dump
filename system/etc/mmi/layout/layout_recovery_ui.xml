@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (c) 2014-2015 Qualcomm Technologies, Inc. All Rights Reserved.
+    Qualcomm Technologies Proprietary and Confidential.
+-->
+<layout>
+    <textview
+        name="do_recovery_notice"
+        text=""
+        w_rel="100"
+        h_rel="39"
+        x_rel="4"
+        y_rel="12" />
+    <button
+        name="wt_recovery"
+        onclick="do_recovery"
+        text="btn_ok"
+        w_rel="30"
+        h_rel="9"
+        x_rel="10"
+        y_rel="80"
+        color="0x0000ffff" />
+    <button
+        name="go_main_menu"
+        text="btn_go_main_menu"
+        onclick="do_go_main_menu"
+        w_rel="30"
+        h_rel="9"
+        x_rel="50"
+        y_rel="80"
+        color="0x2CF3137D" />
+</layout>

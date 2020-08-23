@@ -1,0 +1,7 @@
+mcfg_sw/generic/common/row/gen_3gpp/mcfg_sw.mbn
+mcfg_sw/generic/china/cmcc/commerci/volte_op/mcfg_sw.mbn
+mcfg_sw/generic/china/ct/commerci/openmkt/mcfg_sw.mbn
+mcfg_sw/generic/china/cu/commerci/openmkt/mcfg_sw.mbn
+mcfg_sw/generic/sea/ytl/ytl_3gpp/mcfg_sw.mbn
+mcfg_sw/generic/sea/smartfre/vowifi_c/mcfg_sw.mbn
+mcfg_sw/generic/eu/tim/volte/italy/mcfg_sw.mbn

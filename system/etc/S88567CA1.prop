@@ -1,0 +1,6 @@
+ro.product.wt.boardid=S88567CA1
+ro.miui.support_fingerprint=true
+ro.build.display.wtid.miui=SW_S88567CA1_V070_M11_XM_D1_USR_MP
+ro.build.display.wtid.ato=SW_S88567CA1_V028_M11_XM_D1_USRD_ATO
+ro.product.subproject=S88567CA1
+ro.product.cert=MDI1

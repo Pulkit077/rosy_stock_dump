@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (c) 2014-2015 Qualcomm Technologies, Inc. All Rights Reserved.
+    Qualcomm Technologies Proprietary and Confidential.
+-->
+<layout>
+    <textview
+        name="bg_teset_stat_info"
+        text=""
+        w_rel="99"
+        h_rel="78"
+        x_rel="1"
+        y_rel="3" />
+    <button
+        name="go_bg_test_stop"
+        text="btn_go_main_menu"
+        onclick="do_bg_test_stop"
+        w_rel="19"
+        h_rel="9"
+        x_rel="41"
+        y_rel="82"
+        color="0x2CF3137D" />
+</layout>

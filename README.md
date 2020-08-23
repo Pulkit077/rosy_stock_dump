@@ -1,0 +1,13 @@
+# rosy-user 7.1.2 N2G47H V10.1.2.0.NDAMIFI release-keys
+- manufacturer: xiaomi
+- platform: msm8953
+- codename: rosy
+- flavor: rosy-user
+- release: 7.1.2
+- id: N2G47H
+- incremental: V10.1.2.0.NDAMIFI
+- tags: release-keys
+- fingerprint: Xiaomi/rosy/rosy:7.1.2/N2G47H/V10.1.2.0.NDAMIFI:user/release-keys
+- brand: Xiaomi
+- branch: rosy-user-7.1.2-N2G47H-V10.1.2.0.NDAMIFI-release-keys
+- repo: xiaomi_rosy_dump
